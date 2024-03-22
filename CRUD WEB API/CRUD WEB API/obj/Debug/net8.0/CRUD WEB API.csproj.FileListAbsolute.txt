@@ -1,0 +1,137 @@
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\CRUD WEB API.exe
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\CRUD WEB API.deps.json
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\CRUD WEB API.runtimeconfig.json
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\CRUD WEB API.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\CRUD WEB API.pdb
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Dapper.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.AssemblyInfo.cs
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets\msbuild.CRUD WEB API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD WEB API.props
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD WEB API.props
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD WEB API.props
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\scopedcss\bundle\CRUD WEB API.styles.css
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.csproj.CopyComplete
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\refint\CRUD WEB API.dll
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.pdb
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.genruntimeconfig.cache
+C:\Users\HP\Desktop\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\ref\CRUD WEB API.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\appsettings.Development.json
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\appsettings.json
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\CRUD WEB API.exe
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\CRUD WEB API.deps.json
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\CRUD WEB API.runtimeconfig.json
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\CRUD WEB API.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\CRUD WEB API.pdb
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Azure.Core.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Azure.Identity.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Dapper.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.csproj.AssemblyReference.cache
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.AssemblyInfoInputs.cache
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.AssemblyInfo.cs
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.csproj.CoreCompileInputs.cache
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.MvcApplicationPartsAssemblyInfo.cs
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.MvcApplicationPartsAssemblyInfo.cache
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets\msbuild.CRUD WEB API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD WEB API.props
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD WEB API.props
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD WEB API.props
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\scopedcss\bundle\CRUD WEB API.styles.css
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.csproj.CopyComplete
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.dll
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\refint\CRUD WEB API.dll
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.pdb
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\CRUD WEB API.genruntimeconfig.cache
+D:\Task\CRUD WEB API\CRUD WEB API\obj\Debug\net8.0\ref\CRUD WEB API.dll
+D:\Task\CRUD WEB API\CRUD WEB API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
